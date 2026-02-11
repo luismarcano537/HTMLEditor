@@ -12,3 +12,4 @@ C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\refint\HTMLEditor.dll
 C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.pdb
 C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.genruntimeconfig.cache
 C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\ref\HTMLEditor.dll
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.sourcelink.json

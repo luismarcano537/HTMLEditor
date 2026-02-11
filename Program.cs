@@ -8,6 +8,7 @@ namespace HTMLEditor
         static void Main(string[] args)
         {
             Menu.Show();
+            
         }
     }
 }
