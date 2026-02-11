@@ -1,0 +1,14 @@
+C:\Dev\Projetos\HTMLEditor\bin\Debug\net10.0\HTMLEditor.exe
+C:\Dev\Projetos\HTMLEditor\bin\Debug\net10.0\HTMLEditor.deps.json
+C:\Dev\Projetos\HTMLEditor\bin\Debug\net10.0\HTMLEditor.runtimeconfig.json
+C:\Dev\Projetos\HTMLEditor\bin\Debug\net10.0\HTMLEditor.dll
+C:\Dev\Projetos\HTMLEditor\bin\Debug\net10.0\HTMLEditor.pdb
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.AssemblyInfoInputs.cache
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.AssemblyInfo.cs
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.csproj.CoreCompileInputs.cache
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.dll
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\refint\HTMLEditor.dll
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.pdb
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\HTMLEditor.genruntimeconfig.cache
+C:\Dev\Projetos\HTMLEditor\obj\Debug\net10.0\ref\HTMLEditor.dll
