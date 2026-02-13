@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTMLEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012a4339f65bf59fb9b9f2270d253faf7188d49a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5873c656aa8eb33656af4a13a472e84f6dc210f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTMLEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTMLEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

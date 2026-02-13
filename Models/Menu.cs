@@ -72,7 +72,7 @@ public static class Menu
         switch (option)
         {
             case 1: Console.WriteLine("OpenFile"); break;
-            case 2: Console.WriteLine("EditFile"); break;
+            case 2: Editor.Show(); break;
             case 3:
             {
                 Console.Clear();
